@@ -6,7 +6,7 @@ def submit():
 
 # สร้างหน้าต่าง
 window = tk.Tk()
-window.title("แบบฟอร์มรับชื่อ")
+window.title("แบบฟอร์มรับชื่อ update")
 window.geometry("300x200")
 
 # เพิ่ม Label และ Entry
